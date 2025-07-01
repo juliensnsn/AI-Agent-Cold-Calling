@@ -7,7 +7,7 @@
 
 <h3>🛠️ Build</h3>
 <ul>
-  <li>Use of [Vapi](https://vapi.ai/) for the AI agent</li>
+  <li>Use of <[Vapi](https://vapi.ai/)/> for the AI agent</li>
   <li>Connection and workflow setup with [n8n](https://n8n.io/) + Salesforce</li>
   <li>Monitoring of the process implementation and analysis of metrics to check feature adoption by the teams</li>
   <li>Review of feedback and implementation of improvements to better align this feature with existing processes</li>
